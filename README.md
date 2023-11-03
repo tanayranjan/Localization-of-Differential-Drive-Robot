@@ -10,8 +10,7 @@ The program calculates the position of the robot by applying triangulation, give
 It updates both position of robot, and distance between landmarks regurlarly
 
 ## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vmPwzz_j94U?si=VVWsvafrn0TbLwYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/vmPwzz_j94U/0.jpg)](https://www.youtube.com/watch?v=vmPwzz_j94U)
 
 ## Credits
 
