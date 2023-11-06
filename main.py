@@ -29,7 +29,6 @@ print("Connected")
 graph_rep = graph1(screen=screen, dist=0, scale=scale)
 
 
-
 def main() :
     run = True
     while(run):
